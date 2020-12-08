@@ -1,6 +1,6 @@
 ### Hi there! 😁
 
-My name is Vinicius Augusto Cunha. I've been working as Web Developer since 2012 and currently I'm Software Developer at [Ambev Tech]https://ambevtech.com.br). I'm also an member of the DevParana community.
+My name is Vinicius Augusto Cunha. I've been working as Web Developer since 2012 and currently I'm Software Developer at [Ambev Tech](https://ambevtech.com.br). I'm also an member of the DevParana community.
 
 In my free time I like to play games (🎮), to watch movies (🎞️) and series (📺), travel (✈️) with my family (👪) and drink a beer (🍻).
 
